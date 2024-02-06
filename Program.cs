@@ -16,6 +16,6 @@ class Program
         Triple.Tripe(valor2, out triple);
         Console.WriteLine(triple); 
 
-
+        /// Lembrando que é uma péssima prática, um design ruim "Code smells"
     }
 }
